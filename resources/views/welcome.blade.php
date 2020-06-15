@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel By YouYan 2020/06/15 Hahahaha
+                    Laravel By YouYan 2020/06/16 00:00:00
                 </div>
 
                 <div class="links">
